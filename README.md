@@ -2,7 +2,9 @@
 
 # **Project Diagram**
 
+
  <img width="556" alt="diagram-of-tetris-game" src="https://github.com/user-attachments/assets/36be82ac-09f9-48db-b28f-d80cadbdd73e" />
+
 
 # **Project Intoduction**
 
